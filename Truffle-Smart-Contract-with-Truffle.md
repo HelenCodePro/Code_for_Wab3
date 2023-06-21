@@ -1,13 +1,19 @@
 # Testing smart contracts with truffle
+We will deploy smartcontract using Ubuntu
 
-Installing truffle
+## Links
+For first, here is some links to documentation
+- https://docs.zkevm.consensys.net/developers/quickstart/deploy-smart-contract/truffle
+- https://trufflesuite.com/docs/truffle/how-to/install/
+- https://www.youtube.com/watch?v=62f757RVEvU
 
+## Installing truffle
+Install `npm`
 ```
 npm install -g truffle@beta
 ```
 
 Create an Auction project
-
 ```
 mkdir Auction
 cd Auction
